@@ -16,6 +16,8 @@ class user:
         
         while True:
             ch=int(input("Choose option below\nPress 1 for Login\nPress 2 for Register\nPress 3  for logout\n"))
+            #Admin login detail: 
+            #name = admin,password = admin#1234
             if ch is 1:
                     name = input("Enter the username \n")
                     password=input("enter the password \n")
