@@ -5,8 +5,8 @@ Requirement:
 1.	Python 3.5 or above.
 2.	MySql database, 
 3.	Some python modules:
-3.1	PyMySql == 0.10.0
-3.2	tabulate == 0.8.7
+3.1	PyMySql == 0.10.0,
+3.2	tabulate == 0.8.7,
 3.3     hashlib 
 
 Steps to create virtual Environment:
