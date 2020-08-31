@@ -7,6 +7,7 @@ Requirement:
 3.	Some python modules:
 3.1	PyMySql == 0.10.0
 3.2	tabulate == 0.8.7
+3.3     hashlib 
 
 Steps to create virtual Environment:
 1.	Open the terminal.
