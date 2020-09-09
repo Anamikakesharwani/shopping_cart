@@ -45,7 +45,7 @@ class user:
                         else:
                             Customer.customer_operation()
                     except Exception as e:
-                        print("incorrect username or password,try again)
+                        print("incorrect username or password,try again")
 
 
             elif ch is 2: 
@@ -67,7 +67,7 @@ class user:
             elif ch is 3:
                 exit()
             else:    
-                    print("Invalid Option Selected,")    
+                    print("Invalid Option Selected")    
         
         
 
